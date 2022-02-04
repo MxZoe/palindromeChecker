@@ -1,0 +1,16 @@
+C:\Users\zwein\epicodus\c#\palindromeChecker\obj\Debug\net5.0\Checker.csproj.AssemblyReference.cache
+C:\Users\zwein\epicodus\c#\palindromeChecker\obj\Debug\net5.0\Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zwein\epicodus\c#\palindromeChecker\obj\Debug\net5.0\Checker.AssemblyInfoInputs.cache
+C:\Users\zwein\epicodus\c#\palindromeChecker\obj\Debug\net5.0\Checker.AssemblyInfo.cs
+C:\Users\zwein\epicodus\c#\palindromeChecker\obj\Debug\net5.0\Checker.csproj.CoreCompileInputs.cache
+C:\Users\zwein\epicodus\c#\palindromeChecker\bin\Debug\net5.0\Checker.exe
+C:\Users\zwein\epicodus\c#\palindromeChecker\bin\Debug\net5.0\Checker.deps.json
+C:\Users\zwein\epicodus\c#\palindromeChecker\bin\Debug\net5.0\Checker.runtimeconfig.json
+C:\Users\zwein\epicodus\c#\palindromeChecker\bin\Debug\net5.0\Checker.runtimeconfig.dev.json
+C:\Users\zwein\epicodus\c#\palindromeChecker\bin\Debug\net5.0\Checker.dll
+C:\Users\zwein\epicodus\c#\palindromeChecker\bin\Debug\net5.0\ref\Checker.dll
+C:\Users\zwein\epicodus\c#\palindromeChecker\bin\Debug\net5.0\Checker.pdb
+C:\Users\zwein\epicodus\c#\palindromeChecker\obj\Debug\net5.0\Checker.dll
+C:\Users\zwein\epicodus\c#\palindromeChecker\obj\Debug\net5.0\ref\Checker.dll
+C:\Users\zwein\epicodus\c#\palindromeChecker\obj\Debug\net5.0\Checker.pdb
+C:\Users\zwein\epicodus\c#\palindromeChecker\obj\Debug\net5.0\Checker.genruntimeconfig.cache
